@@ -1,4 +1,4 @@
-# Schedule Management
+# Schedule Management - Version 1
 ## Overview
 
 The **Class Scheduling System** is an efficient and scalable platform designed to streamline the assignment of teachers to classes across specific time slots and days. This project integrates a powerful **Laravel** backend with a responsive **AngularJS** frontend, offering an intuitive drag-and-drop interface, real-time updates, and robust API-driven communication. The system is tailored for educational institutions, enabling seamless schedule management with a focus on usability and performance.
